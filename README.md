@@ -1,5 +1,6 @@
 # Developer_survey_2020
  This is the project to wrangle data in stackoverflow 2020
+ 
  Blog post:
  https://1214soso.medium.com/whether-the-country-is-still-the-decisive-factor-in-ones-income-ce2e9871722e
 # We follow the steps below.
