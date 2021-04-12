@@ -1,14 +1,18 @@
 # Developer_survey_2020
- This is the project to wrangle data in stackoverflow 2020
+ This is the project of data mining in stackoverflow 2020
  
- Blog post:
- https://1214soso.medium.com/whether-the-country-is-still-the-decisive-factor-in-ones-income-ce2e9871722e
-# We follow the steps below.
+ In this project, we will investigate the decisive factors of compensation (converted) arround the world.
+ 
+ Blog post: https://1214soso.medium.com/whether-the-country-is-still-the-decisive-factor-in-ones-income-ce2e9871722e
+# We follow the CRISP-DM.
 
-# import package
+# CRISP-DM Step 1:Business Understanding
+
+# CRISP-DM Step 2:Data Understanding
+
   #read dataset
 
-# data wrangling
+# CRISP-DM Step 3:Data Preparation
  #drop some descripsive columns
  
  #process to clean data: for every input dependent variable
@@ -22,10 +26,16 @@
  Return X,y
 
 
-# Fitting
+# CRISP-DM Step 4:Modeling
  #pass your X and y to the model for testing, 
  
  #Get the most influent coef
  
- #A quick look at the top results
+# CRISP-DM Step 5:Evaluation
+
+# CRISP-DM Step 6:Deployment
  
+# Files include:
+ #dataset
+ #jupyter notebook for analysis
+ #some plots used in the blog post
