@@ -19,18 +19,32 @@ Blog post: https://1214soso.medium.com/whether-the-country-is-still-the-decisive
 
 
 ## Methodology
-* We follow the CRISP-DM.
-* 
-    ### Tech 2 - version 2.0
-    
-    ### Tech 3 - version 3.0
+ ### We follow the CRISP-DM.
+  #### CRISP-DM Step 1:Business Understanding
+  #### CRISP-DM Step 2:Data Understanding
+  #### CRISP-DM Step 3:Data Preparation
+  #### CRISP-DM Step 4:Modeling
+  #### CRISP-DM Step 5:Evaluation
+  #### CRISP-DM Step 6:Deployment
+    * 
+    Tech 3 - version 3.0
 
 ## Files Included
 
-* Stackoverflow2020.ipynb: Jupyter notebook of the project
-* survey_results_public.csv,survey_results_schema.csv : dataset
-* README_2020.txt, so_survey_2020.pdf : description of the dataset
-* Country.png, R2 with different features.png, Top 20 factors.png, Top 20 factors2.png,top 20-30.png: Plots in the analysis
+### Jupyter notebook of the project
+* Stackoverflow2020.ipynb
+### Dataset
+* survey_results_public.csv
+* survey_results_schema.csv
+### Description of the dataset
+* README_2020.txt
+* so_survey_2020.pdf
+### Plots in the analysis
+*  Country.png
+*  R2 with different features.png
+*  Top 20 factors.png
+*  Top 20 factors2.png
+*  top 20-30.png
 
 ## Code Examples
 Show examples of usage:
