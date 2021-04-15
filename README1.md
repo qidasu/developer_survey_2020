@@ -21,9 +21,9 @@ Blog post: https://1214soso.medium.com/whether-the-country-is-still-the-decisive
 ## Methodology
 * We follow the CRISP-DM.
 * 
-    ###Tech 2 - version 2.0
+    ### Tech 2 - version 2.0
     
-    ###Tech 3 - version 3.0
+    ### Tech 3 - version 3.0
 
 ## Files Included
 
